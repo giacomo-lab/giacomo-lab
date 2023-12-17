@@ -1,5 +1,5 @@
 ### Welcome to my Github
-Check out some of my [projects](https://giacomo-lab.github.io)
+Check out my [projects portfolio](https://giacomo-lab.github.io)
 
 <!--
 **giacomo-lab/giacomo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
